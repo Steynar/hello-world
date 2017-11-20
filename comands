@@ -1,6 +1,5 @@
 <context>
 <input pattern="Привет">
 <output value="Приветик">
-<output value="Здаровки">
 </input>
 </context>
